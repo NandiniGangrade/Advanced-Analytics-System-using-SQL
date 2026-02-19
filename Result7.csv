@@ -1,0 +1,4 @@
+payment_method,usage_count,total_amount
+"Credit Card",1,74000.00
+UPI,2,36000.00
+"Debit Card",1,8000.00
